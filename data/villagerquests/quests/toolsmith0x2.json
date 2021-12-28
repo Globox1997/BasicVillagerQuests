@@ -1,0 +1,20 @@
+{
+    "id": 2,
+    "title": "Craft tools",
+    "level": 0,
+    "type": "",
+    "profession": "toolsmith",
+    "task": [
+        "submit",
+        "minecraft:wooden_axe",
+        1,
+        "submit",
+        "minecraft:wooden_pickaxe",
+        1
+    ],
+    "description": "Hey Wanderer, please help me craft more useful tools",
+    "reward": [
+        "minecraft:emerald",
+        1
+    ]
+}

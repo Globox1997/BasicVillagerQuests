@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "title": "Defend the country",
+    "level": 0,
+    "type": "fight",
+    "profession": "toolsmith",
+    "task": [
+        "kill",
+        "minecraft:enderman",
+        5,
+        "kill",
+        "minecraft:creeper",
+        5
+    ],
+    "description": "Hey Wanderer, the country is under attack, please help defend it",
+    "experience": 5,
+    "reward": [
+        "minecraft:emerald",
+        2
+    ]
+}

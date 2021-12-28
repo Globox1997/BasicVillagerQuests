@@ -1,0 +1,18 @@
+{
+    "id": 9,
+    "title": "Rival",
+    "level": 2,
+    "type": "fight",
+    "profession": "toolsmith",
+    "task": [
+        "kill",
+        "minecraft:witch",
+        3
+    ],
+    "description": "Hey Wanderer, a magical aura puts is in fear, please help us",
+	"experience": 8,
+    "reward": [
+        "minecraft:emerald",
+        3
+    ]
+}

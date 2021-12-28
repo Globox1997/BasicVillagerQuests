@@ -1,0 +1,23 @@
+{
+    "id": 3,
+    "title": "Craft good tools",
+    "level": 1,
+    "type": "",
+    "profession": "toolsmith",
+    "task": [
+        "submit",
+        "minecraft:stone_axe",
+        1,
+        "submit",
+        "minecraft:stone_pickaxe",
+        1,
+		"submit",
+        "minecraft:stone_shovel",
+        1
+    ],
+    "description": "Hey Wanderer, please help me craft better tools",
+    "reward": [
+        "minecraft:emerald",
+        2
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": 6,
+    "title": "Rival",
+    "level": 2,
+    "type": "fight",
+    "profession": "toolsmith",
+    "task": [
+        "kill",
+        "minecraft:evoker",
+        2,
+        "kill",
+        "minecraft:pillager",
+        10
+    ],
+    "description": "Hey Wanderer, we have troubles with pillagers, please help us",
+	"experience": 8,
+    "reward": [
+        "minecraft:emerald",
+        4
+    ]
+}

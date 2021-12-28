@@ -1,0 +1,21 @@
+{
+    "id": 0,
+    "title": "Defend the Village",
+    "level": 0,
+    "type": "fight",
+    "profession": "toolsmith",
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        10,
+        "kill",
+        "minecraft:skeleton",
+        10
+    ],
+    "description": "Hey Wanderer, the village is constantly under attack, please help us defend it",
+    "experience": 5,
+    "reward": [
+        "minecraft:emerald",
+        2
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": 4,
+    "title": "Fight for good",
+    "level": 1,
+    "type": "fight",
+    "profession": "toolsmith",
+    "task": [
+        "kill",
+        "minecraft:enderman",
+        15,
+        "kill",
+        "minecraft:creeper",
+        15
+    ],
+    "description": "Hey Wanderer, please help the village kill these dangerous mobs",
+	"experience": 5,
+    "reward": [
+        "minecraft:emerald",
+        2
+    ]
+}
