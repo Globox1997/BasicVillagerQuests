@@ -1,21 +1,22 @@
 {
     "id": 1,
-    "title": "Defend the country",
+    "title": "Mob Clearing",
     "level": 0,
     "type": "fight",
     "profession": "toolsmith",
+	"refresh": 500,
     "task": [
         "kill",
-        "minecraft:enderman",
-        5,
+        "minecraft:zombie",
+        10,
         "kill",
         "minecraft:creeper",
         5
     ],
-    "description": "Hey Wanderer, the country is under attack, please help defend it",
+    "description": "Hey there adventurer. There's some mobs wandering around, please help us.",
     "experience": 5,
     "reward": [
         "minecraft:emerald",
-        2
+        10
     ]
 }

@@ -1,6 +1,6 @@
 {
     "id": 3,
-    "title": "Craft good tools",
+    "title": "Better tool supplies",
     "level": 1,
     "type": "",
     "profession": "toolsmith",
@@ -15,9 +15,9 @@
         "minecraft:stone_shovel",
         1
     ],
-    "description": "Hey Wanderer, please help me craft better tools",
+    "description": "Hey there wanderer. I need some stone tools, can you help me?",
     "reward": [
         "minecraft:emerald",
-        2
+        14
     ]
 }

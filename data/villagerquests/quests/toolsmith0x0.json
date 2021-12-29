@@ -4,6 +4,7 @@
     "level": 0,
     "type": "fight",
     "profession": "toolsmith",
+	"refresh": 500,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -16,6 +17,6 @@
     "experience": 5,
     "reward": [
         "minecraft:emerald",
-        2
+        5
     ]
 }

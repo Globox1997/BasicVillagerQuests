@@ -4,18 +4,21 @@
     "level": 1,
     "type": "fight",
     "profession": "toolsmith",
+	"timer": 700,
     "task": [
         "kill",
         "minecraft:zombie",
-        20,
+        25,
         "kill",
         "minecraft:creeper",
-        5
+        10
     ],
-    "description": "Hey Wanderer, please help me village kill these dangerous mobs",
-	"experience": 5,
+    "description": "I'm glad that you came. Mobs are harming my business, please teach them a lesson!",
+	"experience": 10,
     "reward": [
         "minecraft:emerald",
-        3
+        10,
+		"minecraft:stone_sword",
+		1
     ]
 }
