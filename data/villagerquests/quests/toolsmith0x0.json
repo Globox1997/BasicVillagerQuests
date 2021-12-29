@@ -13,7 +13,7 @@
         "minecraft:skeleton",
         10
     ],
-    "description": "Hey Wanderer, the village is constantly under attack, please help us defend it",
+    "description": "Hey, you there! Monsters are harming our livelihood. Can you clear some of them for me?",
     "experience": 5,
     "reward": [
         "minecraft:emerald",
