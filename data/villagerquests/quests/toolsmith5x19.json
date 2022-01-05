@@ -1,0 +1,24 @@
+{
+    "id": 19,
+    "title": "Golden Blessing",
+    "level": 5,
+    "type": "",
+    "profession": "toolsmith",
+	"refresh": 700,
+    "task": [
+        "submit",
+        "minecraft:gold_ingot",
+        20,
+		"submit",
+		"minecraft:gold_nugget",
+		34
+    ],
+    "description": "Piglins are angry at us but gold is gold.",
+	"experience":30,
+    "reward": [
+        "minecraft:emerald",
+        20,
+		"minecraft:iron_pickaxe",
+		2
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 13,
+    "title": "Ironworks",
+    "level": 3,
+    "type": "",
+    "profession": "toolsmith",
+	"refresh": 1000,
+    "task": [
+        "submit",
+        "minecraft:iron_block",
+        5
+    ],
+    "description": "Friend, I know this is alot but can I have iron blocks? The village needs alot of it.",
+    "reward": [
+        "minecraft:emerald",
+        64,
+		"minecraft:iron_pickaxe",
+		2
+    ]
+}

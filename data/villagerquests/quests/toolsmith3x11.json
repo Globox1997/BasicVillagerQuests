@@ -1,0 +1,24 @@
+{
+    "id": 11,
+    "title": "Miner's Union",
+    "level": 3,
+    "type": "",
+    "profession": "toolsmith",
+	"refresh": 950,
+    "task": [
+        "submit",
+        "minecraft:gold_pickaxe",
+        2,
+		"submit",
+		"minecraft:iron_pickaxe",
+		2,
+		"submit",
+		"minecraft: stone_pickaxe",
+		2
+    ],
+    "description": "Hello there! The village's Miners wanted new pickaxes so they can venture out deep into the mines. Can you help me?",
+    "reward": [
+        "minecraft:emerald",
+        40
+    ]
+}
