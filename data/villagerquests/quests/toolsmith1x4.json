@@ -4,20 +4,20 @@
     "level": 1,
     "type": "fight",
     "profession": "toolsmith",
-	"refresh": 800,
+    "refresh": 800,
     "task": [
         "kill",
         "minecraft:zombie",
         15,
         "kill",
         "minecraft:creeper",
-        10
-		"kill",
-		"minecraft:skeleton",
-		15
+        10,
+        "kill",
+        "minecraft:skeleton",
+        15
     ],
     "description": "Ah! glad that you're here, mobs are rampant as ever. Please help us.",
-	"experience": 10,
+    "experience": 10,
     "reward": [
         "minecraft:emerald",
         20

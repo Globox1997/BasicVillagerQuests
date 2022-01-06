@@ -4,7 +4,7 @@
     "level": 0,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 700,
+    "refresh": 700,
     "task": [
         "submit",
         "minecraft:wooden_axe",

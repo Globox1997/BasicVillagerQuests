@@ -4,19 +4,19 @@
     "level": 4,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 1200,
+    "refresh": 1200,
     "task": [
         "submit",
         "minecraft:diamond_sword",
         3,
-		"submit",
-		"minecraft:diamond_axe",
-		3
+        "submit",
+        "minecraft:diamond_axe",
+        3
     ],
     "description": "We feel that the illagers would attack soon, we need more tools and weapons.",
-	"experience":60,
+    "experience": 60,
     "reward": [
         "minecraft:emerald",
-        40,
+        40
     ]
 }

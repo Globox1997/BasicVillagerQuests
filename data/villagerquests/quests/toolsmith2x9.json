@@ -4,15 +4,15 @@
     "level": 2,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 900,
-	"timer" 1000,
+    "refresh": 900,
+    "timer": 1000,
     "task": [
         "submit",
         "minecraft:iron_hoe",
         5
     ],
     "description": "The farmers are on a working strike due to poor farming tools. Please craft more while I calm them down.",
-	"experience": 18,
+    "experience": 18,
     "reward": [
         "minecraft:emerald",
         25

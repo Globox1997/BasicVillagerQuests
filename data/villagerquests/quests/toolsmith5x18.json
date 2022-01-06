@@ -4,21 +4,21 @@
     "level": 5,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 600,
+    "refresh": 600,
     "task": [
         "submit",
         "minecraft:netherrack",
         128,
-		"submit",
-		"minecraft:quartz",
-		32
+        "submit",
+        "minecraft:quartz",
+        32
     ],
     "description": "Thanks to the mob hunt, I can now collect a few stuff from the Nether but I need more.",
-	"experience":20,
+    "experience": 20,
     "reward": [
         "minecraft:emerald",
         32,
-		"minecraft:daylight_detector",
-		1
+        "minecraft:daylight_detector",
+        1
     ]
 }

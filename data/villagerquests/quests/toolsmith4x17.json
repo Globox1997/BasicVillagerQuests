@@ -4,27 +4,27 @@
     "level": 4,
     "type": "fight",
     "profession": "toolsmith",
-	"refresh": 1000,
+    "refresh": 1000,
     "task": [
         "kill",
         "minecraft:piglin",
         20,
-		"kill",
-		"minecraft:piglin_brute",
-		3,
-		"kill",
-		"minecraft:wither_skeleton",
-		15,
-		"kill",
-		"minecraft:zombified_piglin",
-		30
+        "kill",
+        "minecraft:piglin_brute",
+        3,
+        "kill",
+        "minecraft:wither_skeleton",
+        15,
+        "kill",
+        "minecraft:zombified_piglin",
+        30
     ],
     "description": "I have noticed that you opened a Nether Portal. I have a job for you.",
-	"experience":90,
+    "experience": 90,
     "reward": [
         "minecraft:emerald",
         64,
-		"minecraft:diamond",
-		15
+        "minecraft:diamond",
+        15
     ]
 }
