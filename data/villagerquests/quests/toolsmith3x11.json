@@ -7,7 +7,7 @@
     "refresh": 950,
     "task": [
         "submit",
-        "minecraft:gold_pickaxe",
+        "minecraft:golden_pickaxe",
         2,
         "submit",
         "minecraft:iron_pickaxe",
