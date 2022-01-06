@@ -1,21 +1,25 @@
 {
     "id": 4,
-    "title": "Fight for good",
+    "title": "Perimeter Watch",
     "level": 1,
     "type": "fight",
     "profession": "toolsmith",
+	"refresh": 800,
     "task": [
         "kill",
-        "minecraft:enderman",
+        "minecraft:zombie",
         15,
         "kill",
         "minecraft:creeper",
-        15
+        10
+		"kill",
+		"minecraft:skeleton",
+		15
     ],
-    "description": "Hey Wanderer, please help the village kill these dangerous mobs",
-	"experience": 5,
+    "description": "Ah! glad that you're here, mobs are rampant as ever. Please help us.",
+	"experience": 10,
     "reward": [
         "minecraft:emerald",
-        2
+        20
     ]
 }

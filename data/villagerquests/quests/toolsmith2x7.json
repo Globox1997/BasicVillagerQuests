@@ -1,21 +1,24 @@
 {
     "id": 7,
-    "title": "Rival",
+    "title": "Rare commodity",
     "level": 2,
-    "type": "fight",
+    "type": "",
     "profession": "toolsmith",
+	"refresh": 900,
     "task": [
-        "kill",
-        "minecraft:ravager",
-        2,
-        "kill",
-        "minecraft:pillager",
-        10
+        "submit",
+        "minecraft:chainmail_chestplate",
+        1,
+        "submit",
+        "minecraft:chainmail_leggings",
+        1
     ],
-    "description": "Hey Wanderer, we have big troubles with ravagers, please help us",
-	"experience": 8,
+    "description": "Hey Wanderer, I am interested in chainmail but mobs are tough. Please gather some for me.",
+	"experience": 15,
     "reward": [
         "minecraft:emerald",
-        4
+        10,
+		"minecraft:shield",
+		1
     ]
 }

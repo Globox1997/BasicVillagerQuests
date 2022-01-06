@@ -1,18 +1,20 @@
 {
     "id": 10,
-    "title": "Nether power",
+    "title": "Golden Age",
     "level": 3,
-    "type": "fight",
+    "type": "",
     "profession": "toolsmith",
+	"refresh": 780,
     "task": [
-        "kill",
-        "minecraft:witch",
-        3
+        "submit",
+        "minecraft:gold_ingot",
+        10
     ],
-    "description": "Hey Wanderer, a magical aura puts is in fear, please help us",
-	"experience": 8,
+    "description": "Hey there friend. Can I ask a favor and create some gold ingots for me? I'll pay.",
     "reward": [
         "minecraft:emerald",
-        3
+        35,
+		"minecraft:gold_boots"
+		1
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "id": 12,
+    "title": "Resupply",
+    "level": 3,
+    "type": "",
+    "profession": "toolsmith",
+	"refresh": 500,
+    "task": [
+        "submit",
+        "minecraft:iron_ingot",
+        30,
+		"submit",
+		"minecraft:cobblestone",
+		64
+    ],
+    "description": "My good friend, I need more resources, gather some and I'll pay you.",
+    "reward": [
+        "minecraft:emerald",
+        50
+    ]
+}

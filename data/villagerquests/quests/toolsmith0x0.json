@@ -4,6 +4,7 @@
     "level": 0,
     "type": "fight",
     "profession": "toolsmith",
+	"refresh": 500,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -12,10 +13,10 @@
         "minecraft:skeleton",
         10
     ],
-    "description": "Hey Wanderer, the village is constantly under attack, please help us defend it",
+    "description": "Hey, you there! Monsters are harming our livelihood. Can you clear some of them for me?",
     "experience": 5,
     "reward": [
         "minecraft:emerald",
-        2
+        5
     ]
 }

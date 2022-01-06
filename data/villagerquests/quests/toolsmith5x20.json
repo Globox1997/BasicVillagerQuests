@@ -1,0 +1,24 @@
+{
+    "id": 20,
+    "title": "Nether excavator",
+    "level": 5,
+    "type": "",
+    "profession": "toolsmith",
+	"refresh": 950,
+    "task": [
+        "submit",
+        "minecraft:netherite_pickaxe",
+        1,
+		"submit",
+		"minecraft:netherite_shovel",
+		1
+    ],
+    "description": "Hey there my good man! the villagers had stuck gold! They found netherite but we need better tools.",
+	"experience":95,
+    "reward": [
+        "minecraft:emerald",
+        64,
+		"minecraft:diamond",
+		10
+    ]
+}

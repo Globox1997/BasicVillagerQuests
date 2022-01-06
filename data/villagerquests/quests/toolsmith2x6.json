@@ -1,21 +1,23 @@
 {
     "id": 6,
-    "title": "Rival",
+    "title": "Iron man",
     "level": 2,
-    "type": "fight",
+    "type": "",
     "profession": "toolsmith",
+	"refresh": 840,
     "task": [
-        "kill",
-        "minecraft:evoker",
-        2,
-        "kill",
-        "minecraft:pillager",
-        10
+        "submit",
+        "minecraft:iron_ingot",
+        10,
+        "submit",
+        "minecraft:iron_nugget",
+		9
     ],
-    "description": "Hey Wanderer, we have troubles with pillagers, please help us",
-	"experience": 8,
+    "description": "Good sir, I am in dire need of iron, fetch me some and I'll reward you nicely.",
     "reward": [
         "minecraft:emerald",
-        4
+        5,
+		"minecraft:iron_helmet",
+		1
     ]
 }

@@ -1,18 +1,20 @@
 {
     "id": 9,
-    "title": "Rival",
+    "title": "Farming technology",
     "level": 2,
-    "type": "fight",
+    "type": "",
     "profession": "toolsmith",
+	"refresh": 900,
+	"timer" 1000,
     "task": [
-        "kill",
-        "minecraft:witch",
-        3
+        "submit",
+        "minecraft:iron_hoe",
+        5
     ],
-    "description": "Hey Wanderer, a magical aura puts is in fear, please help us",
-	"experience": 8,
+    "description": "The farmers are on a working strike due to poor farming tools. Please craft more while I calm them down.",
+	"experience": 18,
     "reward": [
         "minecraft:emerald",
-        3
+        25
     ]
 }
