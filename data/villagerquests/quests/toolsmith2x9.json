@@ -5,7 +5,7 @@
     "type": "",
     "profession": "toolsmith",
 	"refresh": 900,
-	"timer" 1000,
+	"timer": 1000,
     "task": [
         "submit",
         "minecraft:iron_hoe",

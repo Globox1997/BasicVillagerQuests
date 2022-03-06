@@ -1,0 +1,31 @@
+{
+    "id": 42,
+    "title": "Battle sickles",
+    "level": 3,
+    "type": "fight",
+    "profession": "farmer",
+	"refresh": 300,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        35,
+        "kill",
+        "minecraft:skeleton",
+        35,
+        "kill",
+        "minecraft:creeper",
+        20,
+        "kill",
+        "minecraft:pillager",
+        5
+
+    ],
+    "description": "After taking down so many mobs, I think we can defeat more. I also see some pillagers scouting this town, please clear them too.",
+	"experience":40,
+    "reward": [
+        "minecraft:emerald",
+        50,
+        "minecraft:iron_sword",
+        2
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": 32,
+    "title": "Small harvest",
+    "level": 0,
+    "type": "farm",
+    "profession": "farmer",
+	"refresh": 80,
+    "task": [
+        "farm",
+        "minecraft:wheat",
+        10,
+		"farm",
+		"minecraft:potato",
+		10,
+        "farm",
+        "minecraft:beetroot",
+        10,
+        "farm",
+        "minecraft:carrot",
+        10
+
+    ],
+    "description": "Hey there stranger, we kinda need some food. Can you harvest some?",
+	"experience":20,
+    "reward": [
+        "minecraft:emerald",
+        25
+    ]
+}

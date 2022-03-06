@@ -1,0 +1,21 @@
+{
+    "id": 40,
+    "title": "Breadwinner",
+    "level": 2,
+    "type": "farm",
+    "profession": "farmer",
+	"refresh": 300,
+    "task": [
+        "farm",
+        "minecraft:wheat",
+        64
+    ],
+    "description": "Friend,I manage to get good with breadmaking, and now I need more wheat, I'll pay you for your service.",
+	"experience":30,
+    "reward": [
+        "minecraft:emerald",
+        20,
+        "minecraft:bread",
+        4
+    ]
+}

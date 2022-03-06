@@ -1,0 +1,22 @@
+{
+    "id": 31,
+    "title": "Hoedown",
+    "level": 0,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 100,
+    "task": [
+        "submit",
+        "minecraft:wooden_hoe",
+        1,
+		"submit",
+		"minecraft:wooden_axe",
+		2
+    ],
+    "description": "Hey there stranger, I hope you're doing well because I need some farming equipment.",
+	"experience":5,
+    "reward": [
+        "minecraft:emerald",
+        10
+    ]
+}

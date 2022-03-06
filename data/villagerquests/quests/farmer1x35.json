@@ -1,0 +1,30 @@
+{
+    "id": 35,
+    "title": "Better harvest",
+    "level": 1,
+    "type": "farm",
+    "profession": "farmer",
+	"refresh": 220,
+    "task": [
+        "farm",
+        "minecraft:wheat",
+        20,
+        "farm",
+        "minecraft:potato",
+        20,
+        "farm",
+        "minecraft:beetroot",
+        20,
+        "farm",
+        "minecraft:carrot",
+        20
+
+
+    ],
+    "description": "Stranger. the crops doubled and now I need help. Can you lend a hand?",
+	"experience":15,
+    "reward": [
+        "minecraft:emerald",
+        30
+    ]
+}

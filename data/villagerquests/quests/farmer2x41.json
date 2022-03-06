@@ -1,0 +1,22 @@
+{
+    "id": 41,
+    "title": "Iron craft",
+    "level": 2,
+    "type": "mine",
+    "profession": "farmer",
+	"refresh": 240,
+    "task": [
+        "mine",
+        "minecraft:raw_iron",
+        15,
+        "mine",
+        "minecraft:raw_copper",
+        15
+    ],
+    "description": "I need iron, I don't care if it's raw, I can take it on a forge. I just need it to make buckets and stuff.",
+	"experience":25,
+    "reward": [
+        "minecraft:emerald",
+        40
+    ]
+}

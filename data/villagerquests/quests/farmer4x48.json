@@ -1,0 +1,28 @@
+{
+    "id": 48,
+    "title": "The old wooden path",
+    "level": 4,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 1500,
+    "task": [
+        "submit",
+        "minecraft:oak_wood_plank",
+        190,
+        "submit",
+        "minecraft:oak_wood_fence",
+        64,
+        "submit",
+        "minecraft:oak_wood_log",
+        190
+
+    ],
+    "description": "Glad to see you again! Say, can you help me gather some wood for my house? Lightning struck my roof and the fire spread all over. It was a miracle that it stopped burning. ",
+	"experience":40,
+    "reward": [
+        "minecraft:emerald",
+        80,
+        "minecraft:pumpkin_pie",
+        64
+    ]
+}
