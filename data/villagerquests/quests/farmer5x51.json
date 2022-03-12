@@ -1,0 +1,32 @@
+{
+    "id": 51,
+    "title": "Fresh Fertilizer",
+    "level": 5,
+    "type": "fight",
+    "profession": "farmer",
+	"refresh": 15000,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        60,
+        "kill",
+        "minecraft:skeleton",
+        70,
+        "submit",
+        "minecraft:bone_meal",
+        64
+
+    ],
+    "description": "Hey there my friend! Listen, I hope you could understand but can you please kill some mobs for us and collect some bone meal? the crops would appreciate it!",
+	"experience":120,
+    "reward": [
+        "minecraft:emerald",
+        100,
+        "minecraft:diamond",
+        30,
+        "minecraft:suspicious_stew",
+        5,
+        "minecraft:iron_ingot",
+        64
+    ]
+}

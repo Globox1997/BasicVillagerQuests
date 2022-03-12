@@ -1,0 +1,28 @@
+{
+    "id": 47,
+    "title": "Cobbled up",
+    "level": 4,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 2500,
+    "task": [
+        "submit",
+        "minecraft:cobblestone",
+        128,
+        "submit",
+        "minecraft:cobblestone_stairs",
+        32,
+        "submit",
+        "minecraft:cobblestone_wall",
+        64
+
+    ],
+    "description": "Hey my friend can you help me? I need some cobble for the renovation of my house. you'll save me alot of time if you did that.",
+	"experience":45,
+    "reward": [
+        "minecraft:emerald",
+        70,
+        "minecraft:bread",
+        64
+    ]
+}

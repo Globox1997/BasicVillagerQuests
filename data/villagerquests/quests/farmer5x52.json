@@ -1,0 +1,35 @@
+{
+    "id": 52,
+    "title": "Nether gonna give your crops",
+    "level": 5,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 20000,
+    "task": [
+        "submit",
+        "minecraft:netherite_hoe",
+        2,
+        "submit",
+        "minecraft:gold_ingot",
+        32,
+        "submit",
+        "minecraft:potato",
+        192,
+        "sumbit",
+        "minecraft:carrot",
+        192
+
+    ],
+    "description": "Some folks said that the Netherlands have some very rare ingots that could help our village thrive! Please spare some for us.",
+	"experience":300,
+    "reward": [
+        "minecraft:emerald",
+        128,
+        "minecraft:diamond",
+        10,
+        "minecraft:baked_potato",
+        64,
+        "minecraft:golden_carrot",
+        16
+    ]
+}

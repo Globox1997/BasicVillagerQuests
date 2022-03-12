@@ -1,0 +1,20 @@
+{
+    "id": 33,
+    "title": "Apple snacking",
+    "level": 0,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 120,
+    "task": [
+        "submit",
+        "minecraft:apple",
+        15
+
+    ],
+    "description": "I crave for some sweet apples stranger, can you get me some?",
+	"experience":30,
+    "reward": [
+        "minecraft:emerald",
+        30
+    ]
+}

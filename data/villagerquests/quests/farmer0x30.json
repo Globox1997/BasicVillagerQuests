@@ -1,20 +1,20 @@
 {
-    "id": 22,
+    "id": 30,
     "title": "Field clearance",
     "level": 0,
     "type": "fight",
     "profession": "farmer",
-    "refresh": 100,
+	"refresh": 100,
     "task": [
         "kill",
         "minecraft:zombie",
         5,
-        "kill",
-        "minecraft:skeleton",
-        5
+		"kill",
+		"minecraft:skeleton",
+		5
     ],
     "description": "Say, you're new here aren't you? Well then stranger, can you help me with something?",
-    "experience": 10,
+	"experience":10,
     "reward": [
         "minecraft:emerald",
         5

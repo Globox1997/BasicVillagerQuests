@@ -1,0 +1,38 @@
+{
+    "id": 53,
+    "title": "Warm body, Full belly",
+    "level": 5,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 30000,
+    "task": [
+        "submit",
+        "minecraft:leather_cap",
+        3,
+        "submit",
+        "minecraft:leather_tunic",
+        3,
+        "submit",
+        "minecraft:leather_leggings",
+        3,
+        "sumbit",
+        "minecraft:leather_boots",
+        3,
+        "submit",
+        "minecraft:wheat",
+        256
+
+    ],
+    "description": "Hey man, the wind's breeze are telling us that the winter months will roll by. The crops won't be as many at that time so can you help us gather some right now? Also, please craft some warm clothes for us.",
+	"experience":250,
+    "reward": [
+        "minecraft:emerald",
+        200,
+        "minecraft:rabbit_hide",
+        30,
+        "minecraft:packed_ice",
+        10,
+        "minecraft:blue_ice",
+        5
+    ]
+}

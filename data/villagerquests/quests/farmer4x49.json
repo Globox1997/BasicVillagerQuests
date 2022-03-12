@@ -1,0 +1,33 @@
+{
+    "id": 49,
+    "title": "Hidden power",
+    "level": 4,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 5000,
+    "task": [
+        "submit",
+        "minecraft:suspicious_stew",
+        10,
+        "submit",
+        "minecraft:wooden_bowl",
+        32,
+        "submit",
+        "minecraft:poppy",
+        32,
+        "submit",
+        "minecraft:dandelion",
+        32
+
+    ],
+    "description": "My friend, the librarian told me about this magical stew that gives you something once you drank and ate all of the contents in. Care to help me with this?",
+	"experience":80,
+    "reward": [
+        "minecraft:emerald",
+        100,
+        "minecraft:diamond",
+        20,
+        "minecraft:wheat",
+        64
+    ]
+}

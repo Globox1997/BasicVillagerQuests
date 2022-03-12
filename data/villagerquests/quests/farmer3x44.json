@@ -1,0 +1,20 @@
+{
+    "id": 44,
+    "title": "Reliable hoes",
+    "level": 3,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 400,
+    "task": [
+        "submit",
+        "minecraft:iron_hoe",
+        10
+
+    ],
+    "description": "We need better hoes. Tilling the land is quite hard with our current hoes.",
+	"experience":60,
+    "reward": [
+        "minecraft:emerald",
+        32
+    ]
+}

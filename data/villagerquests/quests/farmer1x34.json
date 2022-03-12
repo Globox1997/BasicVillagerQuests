@@ -1,0 +1,29 @@
+{
+    "id": 34,
+    "title": "Plot defense",
+    "level": 1,
+    "type": "fight",
+    "profession": "farmer",
+	"refresh": 180,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        15,
+        "kill",
+        "minecraft:skeleton",
+        10,
+        "kill",
+        "minecraft:creeper",
+        5
+
+
+    ],
+    "description": "Hey stranger, mobs are spawning left and right around the place! Please clear the plot!",
+	"experience":30,
+    "reward": [
+        "minecraft:emerald",
+        25,
+        "minecraft:stone_sword",
+        1
+    ]
+}

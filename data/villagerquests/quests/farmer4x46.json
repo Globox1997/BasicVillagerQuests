@@ -1,0 +1,36 @@
+{
+    "id": 46,
+    "title": "Power Farming",
+    "level": 4,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 2000,
+    "task": [
+        "submit",
+        "minecraft:diamond_hoe",
+        5,
+        "submit",
+        "minecraft:wheat_seed",
+        64,
+        "submit",
+        "minecraft:potato",
+        64,
+        "submit",
+        "minecraft:beetroot_seed",
+        64,
+        "submit",
+        "minecraft:carrot",
+        64
+
+    ],
+    "description": "Hey there my trusted friend! I am so energized today that I wanted to drag a friend of mine to farm with me! can you make that come true?",
+	"experience":80,
+    "reward": [
+        "minecraft:emerald",
+        50,
+        "minecraft:baked_potato",
+        32,
+        "minecraft:bread",
+        32
+    ]
+}
