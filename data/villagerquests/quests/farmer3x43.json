@@ -1,0 +1,29 @@
+{
+    "id": 43,
+    "title": "The great crop harvest",
+    "level": 3,
+    "type": "farm",
+    "profession": "farmer",
+	"refresh": 340,
+    "task": [
+        "farm",
+        "minecraft:wheat",
+        64,
+        "farm",
+        "minecraft:potato",
+        64,
+        "farm",
+        "minecraft:beetroot",
+        64,
+        "farm",
+        "minecraft:carrot",
+        64
+
+    ],
+    "description": "The harvest this time are very bountiful. Like before, I need help.",
+	"experience":80,
+    "reward": [
+        "minecraft:emerald",
+        64
+    ]
+}

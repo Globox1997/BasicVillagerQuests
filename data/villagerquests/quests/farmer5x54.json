@@ -1,0 +1,38 @@
+{
+    "id": 54,
+    "title": "Springtide Workforce",
+    "level": 5,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 24000,
+    "task": [
+        "submit",
+        "minecraft:iron_hoe",
+        5,
+        "submit",
+        "minecraft:stone_hoe",
+        10,
+        "submit",
+        "minecraft:diamond_hoe",
+        3,
+        "sumbit",
+        "minecraft:iron_shovel",
+        3,
+        "submit",
+        "minecraft:bucket",
+        8
+
+    ],
+    "description": "Winter has ended my friend and now spring greets us with open arms, and work so please help us!",
+	"experience":200,
+    "reward": [
+        "minecraft:emerald",
+        170,
+        "minecraft:bread",
+        64,
+        "minecraft:baked_potato",
+        32,
+        "minecraft:water_bottle",
+        16
+    ]
+}

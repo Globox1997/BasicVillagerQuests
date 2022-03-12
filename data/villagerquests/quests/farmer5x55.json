@@ -1,0 +1,45 @@
+{
+    "id": 55,
+    "title": "Until we till again",
+    "level": 5,
+    "type": "",
+    "profession": "farmer",
+	"refresh": 60000,
+    "task": [
+        "submit",
+        "minecraft:wheat",
+        320,
+        "submit",
+        "minecraft:potato",
+        320,
+        "submit",
+        "minecraft:beetroot",
+        320,
+        "sumbit",
+        "minecraft:carrot",
+        320,
+        "submit",
+        "minecraft:brown_mushroom",
+        32,
+        "submit",
+        "minecraft:red_mushroom",
+        32
+
+    ],
+    "description": "Today, we celebrate the day of our ancestors. As a tribute, we shall harvest all that we can to be cooked and eaten and offered to them.",
+	"experience":500,
+    "reward": [
+        "minecraft:emerald",
+        200,
+        "minecraft:bread",
+        64,
+        "minecraft:baked_potato",
+        64,
+        "minecraft:pumpkin_pie",
+        64,
+        "minecraft:mushroom_stew",
+        5,
+        "minecraft:beetroot_soup",
+        5
+    ]
+}
