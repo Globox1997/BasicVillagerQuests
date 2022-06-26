@@ -4,13 +4,13 @@
     "level": 5,
     "type": "",
     "profession": "farmer",
-	"refresh": 30000,
+    "refresh": 30000,
     "task": [
         "submit",
-        "minecraft:leather_cap",
+        "minecraft:leather_helmet",
         3,
         "submit",
-        "minecraft:leather_tunic",
+        "minecraft:leather_chestplate",
         3,
         "submit",
         "minecraft:leather_leggings",
@@ -21,10 +21,9 @@
         "submit",
         "minecraft:wheat",
         256
-
     ],
     "description": "Hey man, the wind's breeze are telling us that the winter months will roll by. The crops won't be as many at that time so can you help us gather some right now? Also, please craft some warm clothes for us.",
-	"experience":250,
+    "experience": 250,
     "reward": [
         "minecraft:emerald",
         200,
