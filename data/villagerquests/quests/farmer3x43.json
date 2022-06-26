@@ -4,7 +4,7 @@
     "level": 3,
     "type": "farm",
     "profession": "farmer",
-	"refresh": 340,
+    "refresh": 340,
     "task": [
         "farm",
         "minecraft:wheat",
@@ -18,10 +18,9 @@
         "farm",
         "minecraft:carrot",
         64
-
     ],
     "description": "The harvest this time are very bountiful. Like before, I need help.",
-	"experience":80,
+    "experience": 80,
     "reward": [
         "minecraft:emerald",
         64

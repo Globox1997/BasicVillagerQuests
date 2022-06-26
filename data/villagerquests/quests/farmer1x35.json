@@ -4,7 +4,7 @@
     "level": 1,
     "type": "farm",
     "profession": "farmer",
-	"refresh": 220,
+    "refresh": 220,
     "task": [
         "farm",
         "minecraft:wheat",
@@ -18,11 +18,9 @@
         "farm",
         "minecraft:carrot",
         20
-
-
     ],
     "description": "Stranger. the crops doubled and now I need help. Can you lend a hand?",
-	"experience":15,
+    "experience": 15,
     "reward": [
         "minecraft:emerald",
         30

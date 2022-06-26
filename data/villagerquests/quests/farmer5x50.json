@@ -4,7 +4,7 @@
     "level": 5,
     "type": "fight",
     "profession": "farmer",
-	"refresh": 10000,
+    "refresh": 10000,
     "task": [
         "submit",
         "minecraft:wheat",
@@ -18,10 +18,9 @@
         "kill",
         "minecraft:skeleton",
         20
-
     ],
     "description": "Comrade, the village is on a bottleneck due to the mobs harrassing us. Can you please collect and hunt the mobs down for us?",
-	"experience":100,
+    "experience": 100,
     "reward": [
         "minecraft:emerald",
         64,

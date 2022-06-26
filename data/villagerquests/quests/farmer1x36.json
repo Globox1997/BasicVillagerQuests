@@ -4,7 +4,7 @@
     "level": 1,
     "type": "",
     "profession": "farmer",
-	"refresh": 200,
+    "refresh": 200,
     "task": [
         "farm",
         "minecraft:wheat",
@@ -12,11 +12,9 @@
         "submit",
         "minecraft:bread",
         10
-
-
     ],
     "description": "Stranger, I saw you make bread, I wanted to make my own but I need to taste yours, can you give me some bread and wheat?",
-	"experience":25,
+    "experience": 25,
     "reward": [
         "minecraft:emerald",
         35

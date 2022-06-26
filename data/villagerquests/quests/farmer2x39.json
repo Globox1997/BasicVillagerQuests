@@ -4,7 +4,7 @@
     "level": 2,
     "type": "fight",
     "profession": "farmer",
-	"refresh": 260,
+    "refresh": 260,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -15,11 +15,9 @@
         "kill",
         "minecraft:creeper",
         10
-
-
     ],
     "description": "Friend, these mobs are relentless. Please help us clear the land again.",
-	"experience":50,
+    "experience": 50,
     "reward": [
         "minecraft:emerald",
         50,

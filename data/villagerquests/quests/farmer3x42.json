@@ -4,7 +4,7 @@
     "level": 3,
     "type": "fight",
     "profession": "farmer",
-	"refresh": 300,
+    "refresh": 300,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -18,10 +18,9 @@
         "kill",
         "minecraft:pillager",
         5
-
     ],
     "description": "After taking down so many mobs, I think we can defeat more. I also see some pillagers scouting this town, please clear them too.",
-	"experience":40,
+    "experience": 40,
     "reward": [
         "minecraft:emerald",
         50,

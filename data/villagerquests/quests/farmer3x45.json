@@ -4,7 +4,7 @@
     "level": 3,
     "type": "",
     "profession": "farmer",
-	"refresh": 500,
+    "refresh": 500,
     "task": [
         "submit",
         "minecraft:golden_hoe",
@@ -12,10 +12,9 @@
         "submit",
         "minecraft:wooden_hoe",
         20
-
     ],
     "description": "For some reason, gold is quite fast on tilling the land, we need a few of those and some wooden ones.",
-	"experience":75,
+    "experience": 75,
     "reward": [
         "minecraft:emerald",
         40

@@ -4,7 +4,7 @@
     "level": 5,
     "type": "",
     "profession": "farmer",
-	"refresh": 20000,
+    "refresh": 20000,
     "task": [
         "submit",
         "minecraft:netherite_hoe",
@@ -18,10 +18,9 @@
         "sumbit",
         "minecraft:carrot",
         192
-
     ],
     "description": "Some folks said that the Netherlands have some very rare ingots that could help our village thrive! Please spare some for us.",
-	"experience":300,
+    "experience": 300,
     "reward": [
         "minecraft:emerald",
         128,
