@@ -1,0 +1,23 @@
+{
+    "id": 61,
+    "title": "Cobble trouble",
+    "level": 0,
+    "type": "",
+    "profession": "mason",
+	"refresh": 100,
+    "task": [
+        "submit",
+        "minecraft:cobblestone",
+        32,
+        "submit",
+        "minecraft:cobblestone_wall",
+        64
+        
+    ],
+    "description": "Hey new guy. Listen, I need some cobble for my next project. I'll pay once you've gave it to me.",
+	"experience":25,
+    "reward": [
+        "minecraft:emerald",
+        5
+    ]
+}

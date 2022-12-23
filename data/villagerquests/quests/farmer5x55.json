@@ -2,7 +2,7 @@
     "id": 55,
     "title": "Until we till again",
     "level": 5,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 60000,
     "task": [

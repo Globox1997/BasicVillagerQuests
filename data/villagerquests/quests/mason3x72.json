@@ -1,0 +1,33 @@
+{
+    "id": 72,
+    "title": "Combat Masonry",
+    "level": 3,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 600,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        64,
+        "kill",
+        "minecraft:skeleton",
+        32,
+        "submit",
+        "minecraft:clay_ball",
+        128,
+        "submit",
+        "minecraft:cobblestone",
+        128
+        
+    ],
+    "description": "Zombies and Skeletons are always on my tail at night and I need your help on wiping them while collecting some stuff I need, please.",
+	"experience":550,
+    "reward": [
+        "minecraft:emerald",
+        75,
+        "minecraft:iron_pickaxe",
+        1,
+        "minecraft:bread",
+        64
+    ]
+}

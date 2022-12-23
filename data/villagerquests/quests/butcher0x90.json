@@ -1,0 +1,24 @@
+{
+    "id": 90,
+    "title": "Meat Shortage I",
+    "level": 0,
+    "type": "submit",
+    "profession": "butcher",
+	"refresh": 120,
+    "task": [
+        "submit",
+        "minecraft:beef",
+        12,
+		"submit",
+		"minecraft:chicken",
+		12
+    ],
+    "description": "Hey, adventurer! The village is kinda short on meats today, gather some and I'll pay you.",
+	"experience":8,
+    "reward": [
+        "minecraft:emerald",
+        7,
+        "minecraft:cooked_beef",
+        3
+    ]
+}

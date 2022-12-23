@@ -2,7 +2,7 @@
     "id": 52,
     "title": "Nether gonna give your crops",
     "level": 5,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 20000,
     "task": [

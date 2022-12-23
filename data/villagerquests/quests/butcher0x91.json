@@ -1,0 +1,29 @@
+{
+    "id": 91,
+    "title": "Scared Produce",
+    "level": 0,
+    "type": "fight",
+    "profession": "butcher",
+	"refresh": 100,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        10,
+		"kill",
+		"minecraft:skeleton",
+		6,
+        "kill",
+        "minecraft:creeper",
+        2
+    ],
+    "description": "My meats and other produce are attracting all kinds of bad! Please take care of it! I'll reward you if you complete it.",
+	"experience":15,
+    "reward": [
+        "minecraft:emerald",
+        10,
+        "minecraft:beef",
+        6,
+        "minecraft:bread",
+        8
+    ]
+}

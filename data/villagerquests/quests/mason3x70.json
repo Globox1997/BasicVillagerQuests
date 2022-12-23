@@ -1,0 +1,31 @@
+{
+    "id": 70,
+    "title": "The copper age",
+    "level": 3,
+    "type": "",
+    "profession": "mason",
+	"refresh": 550,
+    "task": [
+        "submit",
+        "minecraft:raw_copper",
+        64,
+        "submit",
+        "minecraft:copper_ingot",
+        32,
+        "submit",
+        "minecraft:copper_block",
+        12,
+        "submit",
+        "minecraft:cobblestone",
+        128
+        
+    ],
+    "description": "Hey pal, I've heard that there's a new resource that you could mine down there. I wanted some, I'll pay you.",
+	"experience":500,
+    "reward": [
+        "minecraft:emerald",
+        50,
+        "minecraft:iron_pickaxe",
+        2
+    ]
+}

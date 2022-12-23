@@ -1,0 +1,39 @@
+{
+    "id": 76,
+    "title": "Hellscaping",
+    "level": 4,
+    "type": "",
+    "profession": "mason",
+	"refresh": 800,
+    "task": [
+        "submit",
+        "minecraft:netherrack",
+        128,
+        "submit",
+        "minecraft:coal",
+        128,
+        "submit",
+        "minecraft:cobbled_blackstone",
+        128,
+        "sumbit",
+        "minecraft:basalt",
+        64,
+        "submit",
+        "minecraft:cobblestone",
+        32
+        
+        
+    ],
+    "description": "I've been watching you go in and out of that weird portal and dropping nice rocks. Please take some for me.",
+	"experience":800,
+    "reward": [
+        "minecraft:emerald",
+        110,
+        "minecraft:diamond",
+        5,
+        "minecraft:golden_apple",
+        2,
+        "minecraft:iron_pickaxe",
+        3
+    ]
+}

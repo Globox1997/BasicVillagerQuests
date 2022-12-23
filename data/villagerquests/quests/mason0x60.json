@@ -1,0 +1,20 @@
+{
+    "id": 60,
+    "title": "Down and Dirty",
+    "level": 0,
+    "type": "submit",
+    "profession": "mason",
+	"refresh": 500,
+    "task": [
+        "submit",
+        "minecraft:dirt",
+        30
+        
+    ],
+    "description": "Hey new guy! I heard you're looking for work, lucky for you I need some dirt right now. Gather some and I'll pay you.",
+	"experience":10,
+    "reward": [
+        "minecraft:emerald",
+        5
+    ]
+}

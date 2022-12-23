@@ -1,0 +1,30 @@
+{
+    "id": 67,
+    "title": "Combat Miner",
+    "level": 2,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 300,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        25,
+        "kill",
+        "minecraft:skeleton",
+        25,
+        "submit",
+        "minecraft:creeper",
+        15
+        
+    ],
+    "description": "Mining is dangerous these days! I almost got killed by one! Please help me clear some of them for me.",
+	"experience":300,
+    "reward": [
+        "minecraft:emerald",
+        45,
+        "minecraft:stone_pickaxe",
+        3,
+        "minecraft:brick",
+        64
+    ]
+}

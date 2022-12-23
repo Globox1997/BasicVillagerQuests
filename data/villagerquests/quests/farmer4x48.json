@@ -2,7 +2,7 @@
     "id": 48,
     "title": "The old wooden path",
     "level": 4,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 1500,
     "task": [

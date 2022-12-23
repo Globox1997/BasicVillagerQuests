@@ -2,7 +2,7 @@
     "id": 53,
     "title": "Warm body, Full belly",
     "level": 5,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 30000,
     "task": [

@@ -1,0 +1,37 @@
+{
+    "id": 79,
+    "title": "Crazy mix",
+    "level": 5,
+    "type": "",
+    "profession": "mason",
+	"refresh": 1050,
+    "task": [
+        "submit",
+        "minecraft:end_stone",
+        32,
+        "submit",
+        "minecraft:purpur_bricks",
+        32,
+        "submit",
+        "minecraft:quartz_bricks",
+        128,
+        "submit",
+        "minecraft:chorus_fruit",
+        25,
+        "submit",
+        "minecraft:magma_cream",
+        32
+        
+        
+    ],
+    "description": "You look like you went to the End dimension already. Can you help me with some ingredients?",
+	"experience":760,
+    "reward": [
+        "minecraft:emerald",
+        80,
+        "minecraft:ancient_debris",
+        10,
+        "minecraft:enchanted_golden_apple",
+        2
+    ]
+}

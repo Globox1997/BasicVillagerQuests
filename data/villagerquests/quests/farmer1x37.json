@@ -2,7 +2,7 @@
     "id": 37,
     "title": "The potato festival",
     "level": 1,
-    "type": "",
+    "type": "farm",
     "profession": "farmer",
     "refresh": 1000,
     "task": [

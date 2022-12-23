@@ -1,0 +1,31 @@
+{
+    "id": 63,
+    "title": "Combat Foreman",
+    "level": 0,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 250,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        20,
+        "kill",
+        "minecraft:skeleton",
+        15,
+        "kill",
+        "minecraft:creeper",
+        10,
+        "submit",
+        "minecraft:cobblestone",
+        128
+        
+    ],
+    "description": "Hey! You're making a name for youself but I still don't see you're worthy. Tell you what, do these stuff and I'll change that.",
+	"experience":80,
+    "reward": [
+        "minecraft:emerald",
+        15,
+        "minecraft:bread",
+        10
+    ]
+}

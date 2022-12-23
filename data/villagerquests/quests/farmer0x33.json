@@ -2,7 +2,7 @@
     "id": 33,
     "title": "Apple snacking",
     "level": 0,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 120,
     "task": [

@@ -1,0 +1,30 @@
+{
+    "id": 64,
+    "title": "No Trespassing!",
+    "level": 1,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 200,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        30,
+        "kill",
+        "minecraft:skeleton",
+        25,
+        "kill",
+        "minecraft:creeper",
+        20
+        
+    ],
+    "description": "Rookie! You've my respect but that's no reason to lounge around, I have some work for you, can you handle it?",
+	"experience":120,
+    "reward": [
+        "minecraft:emerald",
+        20,
+        "minecraft:bread",
+        20,
+        "minecraft:iron_ingot",
+        5
+    ]
+}

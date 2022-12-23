@@ -1,0 +1,31 @@
+{
+    "id": 68,
+    "title": "A mossy situation",
+    "level": 2,
+    "type": "",
+    "profession": "mason",
+	"refresh": 300,
+    "task": [
+        "submit",
+        "minecraft:mossy_cobblestone",
+        64,
+        "submit",
+        "minecraft:mossy_cobblestone_wall",
+        32,
+        "submit",
+        "minecraft:mossy_cobblestone_stair",
+        64,
+        "submit",
+        "minecraft:mossy_cobblestone_slab",
+        32
+        
+    ],
+    "description": "Hey there young one. I've heard stories of vines having moss-like features on specific types of stone. Can you spare some for me so I can see it?",
+	"experience":350,
+    "reward": [
+        "minecraft:emerald",
+        50,
+        "minecraft:iron_pickaxe",
+        1
+    ]
+}

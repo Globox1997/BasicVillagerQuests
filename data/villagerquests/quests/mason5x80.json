@@ -1,0 +1,45 @@
+{
+    "id": 80,
+    "title": "The Ultimate Mansion",
+    "level": 5,
+    "type": "",
+    "profession": "mason",
+	"refresh": 1200,
+    "task": [
+        "submit",
+        "minecraft:end_stone",
+        64,
+        "submit",
+        "minecraft:purpur_bricks",
+        64,
+        "submit",
+        "minecraft:quartz_bricks",
+        128,
+        "submit",
+        "minecraft:brick",
+        128,
+        "submit",
+        "minecraft:stone_bricks",
+        128,
+        "submit",
+        "minecraft:cobblestone",
+        128,
+        "submit",
+        "minecraft:nether_bricks",
+        128
+        
+        
+    ],
+    "description": "Hey there! There's this guy that wanted to build a crazy mansion for his challenge. He just needs these materials for it, think you can handle it?",
+	"experience":800,
+    "reward": [
+        "minecraft:emerald",
+        100,
+        "minecraft:netherite_pickaxe",
+        2,
+        "minecraft:enchanted_golden_apple",
+        4,
+        "minecraft:diamond",
+        32
+    ]
+}

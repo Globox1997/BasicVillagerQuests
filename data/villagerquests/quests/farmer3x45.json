@@ -2,7 +2,7 @@
     "id": 45,
     "title": "Short term use",
     "level": 3,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
     "refresh": 500,
     "task": [
