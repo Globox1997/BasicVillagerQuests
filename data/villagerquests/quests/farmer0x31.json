@@ -2,7 +2,7 @@
     "id": 31,
     "title": "Hoedown",
     "level": 0,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 100,
     "task": [

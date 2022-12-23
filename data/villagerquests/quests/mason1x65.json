@@ -1,0 +1,30 @@
+{
+    "id": 65,
+    "title": "Rock Solid",
+    "level": 1,
+    "type": "",
+    "profession": "mason",
+	"refresh": 250,
+    "task": [
+        "submit",
+        "minecraft:stone",
+        64,
+        "submit",
+        "minecraft:cobblestone",
+        128,
+        "submit",
+        "minecraft:smooth_stone",
+        32
+        
+    ],
+    "description": "Hey pal! Listen, I need alot of stone for this build I need, can you help me?",
+	"experience":200,
+    "reward": [
+        "minecraft:emerald",
+        32,
+        "minecraft:stone_pickaxe",
+        2,
+        "minecraft:bread",
+        32
+    ]
+}

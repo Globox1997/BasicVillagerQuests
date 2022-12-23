@@ -2,7 +2,7 @@
     "id": 50,
     "title": "Crops vs Zombies",
     "level": 5,
-    "type": "fight",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 10000,
     "task": [

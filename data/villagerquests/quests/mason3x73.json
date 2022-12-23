@@ -1,0 +1,33 @@
+{
+    "id": 73,
+    "title": "Golden Days",
+    "level": 3,
+    "type": "",
+    "profession": "mason",
+	"refresh": 700,
+    "task": [
+        "submit",
+        "minecraft:raw_gold",
+        32,
+        "submit",
+        "minecraft:raw_iron",
+        64,
+        "submit",
+        "minecraft:charcoal",
+        64,
+        "submit",
+        "minecraft:wheat",
+        32
+        
+    ],
+    "description": "Gold is now in an all time high and I wanted to ride the trend! Please help me gather some. Also get me some wheat please?",
+	"experience":630,
+    "reward": [
+        "minecraft:emerald",
+        69,
+        "minecraft:raw_iron",
+        40,
+        "minecraft:brick",
+        64
+    ]
+}

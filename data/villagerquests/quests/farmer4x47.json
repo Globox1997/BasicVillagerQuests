@@ -2,7 +2,7 @@
     "id": 47,
     "title": "Cobbled up",
     "level": 4,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 2500,
     "task": [

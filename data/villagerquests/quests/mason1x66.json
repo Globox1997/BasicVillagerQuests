@@ -1,0 +1,30 @@
+{
+    "id": 66,
+    "title": "The Andies and Grannys",
+    "level": 1,
+    "type": "",
+    "profession": "mason",
+	"refresh": 300,
+    "task": [
+        "submit",
+        "minecraft:andesite",
+        32,
+        "submit",
+        "minecraft:granite",
+        32,
+        "submit",
+        "minecraft:cobblestone",
+        128
+        
+    ],
+    "description": "Hey there! I need to build some bridge for some rich folk and he likes some uncommon materials, please take care of it for me.",
+	"experience":240,
+    "reward": [
+        "minecraft:emerald",
+        40,
+        "minecraft:stone_brick",
+        64,
+        "minecraft:stone_pickaxe",
+        1
+    ]
+}

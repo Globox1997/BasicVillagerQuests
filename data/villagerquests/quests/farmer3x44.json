@@ -2,7 +2,7 @@
     "id": 44,
     "title": "Reliable hoes",
     "level": 3,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 400,
     "task": [

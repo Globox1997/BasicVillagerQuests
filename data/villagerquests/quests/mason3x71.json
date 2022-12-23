@@ -1,0 +1,33 @@
+{
+    "id": 71,
+    "title": "Copperhead",
+    "level": 3,
+    "type": "",
+    "profession": "mason",
+	"refresh": 600,
+    "task": [
+        "submit",
+        "minecraft:raw_copper",
+        128,
+        "submit",
+        "minecraft:copper_ingot",
+        64,
+        "submit",
+        "minecraft:copper_block",
+        30,
+        "submit",
+        "minecraft:cobblestone",
+        196
+        
+    ],
+    "description": "I'm loving this new copper stuff that I wanted more! Please mine more of these, I beg you!",
+	"experience":650,
+    "reward": [
+        "minecraft:emerald",
+        64,
+        "minecraft:iron_pickaxe",
+        4,
+        "minecraft:stone_brick",
+        64
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 81,
+    "title": "From seas to the abyss",
+    "level": 5,
+    "type": "",
+    "profession": "mason",
+	"refresh": 1800,
+    "task": [
+        "submit",
+        "minecraft:prismarine_bricks",
+        128,
+        "submit",
+        "minecraft:prismarine",
+        64,
+        "submit",
+        "minecraft:prismarine_stairs",
+        64,
+        "submit",
+        "minecraft:end_stone",
+        64,
+        "submit",
+        "minecraft:end_stone_bricks",
+        128,
+        "submit",
+        "minecraft:purpur_bricks",
+        64,
+        "submit",
+        "minecraft:deepslate_bricks",
+        128,
+        "submit",
+        "minecraft:red_nether_bricks",
+        192,
+        "submit",
+        "minecraft:chisled_nether_bricks",
+        64
+        
+        
+    ],
+    "description": "I could feel this empty feeling...like something from the dark calls for me. Can you give me these materials? I....just need it...",
+	"experience":1000,
+    "reward": [
+        "minecraft:emerald",
+        200,
+        "minecraft:netherite_ingot",
+        32,
+        "minecraft:enchanted_golden_apple",
+        5,
+        "minecraft:golden_apple",
+        20,
+        "minecraft:crying_obsidian",
+        30
+    ]
+}

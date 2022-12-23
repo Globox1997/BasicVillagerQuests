@@ -2,7 +2,7 @@
     "id": 49,
     "title": "Hidden power",
     "level": 4,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 5000,
     "task": [

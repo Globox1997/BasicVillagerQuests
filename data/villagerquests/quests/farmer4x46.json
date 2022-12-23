@@ -2,7 +2,7 @@
     "id": 46,
     "title": "Power Farming",
     "level": 4,
-    "type": "",
+    "type": "submit",
     "profession": "farmer",
 	"refresh": 2000,
     "task": [

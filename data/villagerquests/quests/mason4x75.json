@@ -1,0 +1,39 @@
+{
+    "id": 75,
+    "title": "Kinda Bricked",
+    "level": 4,
+    "type": "",
+    "profession": "mason",
+	"refresh": 760,
+    "task": [
+        "submit",
+        "minecraft:stone_bricks",
+        192,
+        "submit",
+        "minecraft:brick",
+        192,
+        "submit",
+        "minecraft:mossy_stone_bricks",
+        64,
+        "sumbit",
+        "minecraft:cracked_stone_bricks",
+        128,
+        "submit",
+        "minecraft:chiseled_stone_bricks",
+        64
+        
+        
+    ],
+    "description": "Urgent. Very urgent! I need alot of bricks, and I mean ALOT of it. I'll pay more than before.",
+	"experience":800,
+    "reward": [
+        "minecraft:emerald",
+        100,
+        "minecraft:terracotta",
+        128,
+        "minecraft:diamond",
+        4,
+        "minecraft:golden_apple",
+        1
+    ]
+}

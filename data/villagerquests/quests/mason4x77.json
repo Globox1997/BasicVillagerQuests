@@ -1,0 +1,36 @@
+{
+    "id": 77,
+    "title": "Unwated Visitors I",
+    "level": 4,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 860,
+    "task": [
+        "kill",
+        "minecraft:wither_skeleton",
+        20,
+        "kill",
+        "minecraft:piglin",
+        32,
+        "kill",
+        "minecraft:zombified_piglin",
+        64,
+        "kill",
+        "minecraft:blaze",
+        10
+        
+        
+    ],
+    "description": "That portal's been giving me the creeps and I just saw a few creepy things come out from it, please secure it!",
+	"experience":900,
+    "reward": [
+        "minecraft:emerald",
+        120,
+        "minecraft:diamond",
+        5,
+        "minecraft:golden_apple",
+        3,
+        "minecraft:iron_sword",
+        3
+    ]
+}

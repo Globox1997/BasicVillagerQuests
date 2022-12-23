@@ -1,0 +1,45 @@
+{
+    "id": 74,
+    "title": "Combat Masonry II",
+    "level": 4,
+    "type": "",
+    "profession": "mason",
+	"refresh": 720,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        100,
+        "kill",
+        "minecraft:skeleton",
+        70,
+        "kill",
+        "minecraft:creeper",
+        30,
+        "kill",
+        "minecraft:enderman",
+        10,
+        "submit",
+        "minecraft:clay_ball",
+        50,
+        "sumbit",
+        "minecraft:cobblestone",
+        170,
+        "submit",
+        "minecraft:coal",
+        64
+        
+        
+    ],
+    "description": "My loyal customer and friend can you help me? It's those pesky mobs again, they're blocking my collections at times so production is dwindling. Please take care of them.",
+	"experience":750,
+    "reward": [
+        "minecraft:emerald",
+        90,
+        "minecraft:terracotta",
+        100,
+        "minecraft:brick",
+        128,
+        "minecraft:diamond",
+        2
+    ]
+}

@@ -2,7 +2,7 @@
     "id": 36,
     "title": "Fresh Bread",
     "level": 1,
-    "type": "",
+    "type": "farm",
     "profession": "farmer",
 	"refresh": 200,
     "task": [

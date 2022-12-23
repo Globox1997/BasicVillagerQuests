@@ -1,0 +1,31 @@
+{
+    "id": 69,
+    "title": "Andesite to behold",
+    "level": 2,
+    "type": "",
+    "profession": "mason",
+	"refresh": 400,
+    "task": [
+        "submit",
+        "minecraft:andesite",
+        128,
+        "submit",
+        "minecraft:cobblestone",
+        64,
+        "submit",
+        "minecraft:stone",
+        64,
+        "submit",
+        "minecraft:smooth_stone",
+        64
+        
+    ],
+    "description": "Hey rookie! I've saw this new rock called Andesite and me and my pal here was interested on getting some for our builds. Can you get some?",
+	"experience":400,
+    "reward": [
+        "minecraft:emerald",
+        40,
+        "minecraft:raw_iron",
+        25
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 62,
+    "title": "Bloody pavement",
+    "level": 0,
+    "type": "fight",
+    "profession": "mason",
+	"refresh": 150,
+    "task": [
+        "kill",
+        "minecraft:zombie",
+        15,
+        "kill",
+        "minecraft:skeleton",
+        10
+        
+    ],
+    "description": "These hostile mobs are making the night restless for us, please take care of them for us.",
+	"experience":50,
+    "reward": [
+        "minecraft:emerald",
+        10
+    ]
+}
