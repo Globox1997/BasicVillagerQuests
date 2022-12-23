@@ -4,13 +4,13 @@
     "level": 4,
     "type": "submit",
     "profession": "farmer",
-	"refresh": 5000,
+    "refresh": 5000,
     "task": [
         "submit",
         "minecraft:suspicious_stew",
         10,
         "submit",
-        "minecraft:wooden_bowl",
+        "minecraft:bowl",
         32,
         "submit",
         "minecraft:poppy",
@@ -18,10 +18,9 @@
         "submit",
         "minecraft:dandelion",
         32
-
     ],
     "description": "My friend, the librarian told me about this magical stew that gives you something once you drank and ate all of the contents in. Care to help me with this?",
-	"experience":80,
+    "experience": 80,
     "reward": [
         "minecraft:emerald",
         100,

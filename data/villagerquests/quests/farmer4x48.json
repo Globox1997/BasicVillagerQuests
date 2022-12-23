@@ -4,21 +4,20 @@
     "level": 4,
     "type": "submit",
     "profession": "farmer",
-	"refresh": 1500,
+    "refresh": 1500,
     "task": [
         "submit",
-        "minecraft:oak_wood_plank",
+        "minecraft:oak_planks",
         190,
         "submit",
-        "minecraft:oak_wood_fence",
+        "minecraft:oak_fence",
         64,
         "submit",
-        "minecraft:oak_wood_log",
+        "minecraft:oak_log",
         190
-
     ],
     "description": "Glad to see you again! Say, can you help me gather some wood for my house? Lightning struck my roof and the fire spread all over. It was a miracle that it stopped burning. ",
-	"experience":40,
+    "experience": 40,
     "reward": [
         "minecraft:emerald",
         80,

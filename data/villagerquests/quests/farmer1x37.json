@@ -4,16 +4,14 @@
     "level": 1,
     "type": "farm",
     "profession": "farmer",
-	"refresh": 1000,
+    "refresh": 1000,
     "task": [
         "farm",
         "minecraft:potato",
         40
-
-
     ],
     "description": "Stranger, the potato festival is starting soon and I need help on harvesting the appropriate crops.",
-	"experience":50,
+    "experience": 50,
     "reward": [
         "minecraft:emerald",
         50

@@ -4,16 +4,14 @@
     "level": 2,
     "type": "submit",
     "profession": "farmer",
-	"refresh": 170,
+    "refresh": 170,
     "task": [
         "submit",
         "minecraft:iron_hoe",
         4
-
-
     ],
     "description": "Friend, the toolsmith is not cooperating with us farmers, we need better tools, please help us!",
-	"experience":30,
+    "experience": 30,
     "reward": [
         "minecraft:emerald",
         35

@@ -4,7 +4,7 @@
     "level": 5,
     "type": "submit",
     "profession": "farmer",
-	"refresh": 24000,
+    "refresh": 24000,
     "task": [
         "submit",
         "minecraft:iron_hoe",
@@ -21,10 +21,9 @@
         "submit",
         "minecraft:bucket",
         8
-
     ],
     "description": "Winter has ended my friend and now spring greets us with open arms, and work so please help us!",
-	"experience":200,
+    "experience": 200,
     "reward": [
         "minecraft:emerald",
         170,
@@ -32,7 +31,7 @@
         64,
         "minecraft:baked_potato",
         32,
-        "minecraft:water_bottle",
+        "minecraft:glass_bottle",
         16
     ]
 }

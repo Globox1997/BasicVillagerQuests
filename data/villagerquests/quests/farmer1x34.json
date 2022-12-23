@@ -4,7 +4,7 @@
     "level": 1,
     "type": "fight",
     "profession": "farmer",
-	"refresh": 180,
+    "refresh": 180,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -15,11 +15,9 @@
         "kill",
         "minecraft:creeper",
         5
-
-
     ],
     "description": "Hey stranger, mobs are spawning left and right around the place! Please clear the plot!",
-	"experience":30,
+    "experience": 30,
     "reward": [
         "minecraft:emerald",
         25,

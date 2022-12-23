@@ -4,21 +4,21 @@
     "level": 4,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 940,
+    "refresh": 940,
     "task": [
         "submit",
         "minecraft:diamond",
         10,
-		"submit",
-		"minecraft:coal",
-		20
+        "submit",
+        "minecraft:coal",
+        20
     ],
     "description": "Give me some diamonds and I will give you something nice.",
-	"experience":45,
+    "experience": 45,
     "reward": [
         "minecraft:emerald",
         64,
-		"minecraft:diamond_chestplate",
-		1
+        "minecraft:diamond_chestplate",
+        1
     ]
 }

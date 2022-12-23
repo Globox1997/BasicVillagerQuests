@@ -4,7 +4,7 @@
     "level": 3,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 1000,
+    "refresh": 1000,
     "task": [
         "submit",
         "minecraft:iron_block",
@@ -14,7 +14,7 @@
     "reward": [
         "minecraft:emerald",
         64,
-		"minecraft:iron_pickaxe",
-		2
+        "minecraft:iron_pickaxe",
+        2
     ]
 }

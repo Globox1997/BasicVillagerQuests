@@ -4,7 +4,7 @@
     "level": 2,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 900,
+    "refresh": 900,
     "task": [
         "submit",
         "minecraft:chainmail_chestplate",
@@ -14,11 +14,11 @@
         1
     ],
     "description": "Hey Wanderer, I am interested in chainmail but mobs are tough. Please gather some for me.",
-	"experience": 15,
+    "experience": 15,
     "reward": [
         "minecraft:emerald",
         10,
-		"minecraft:shield",
-		1
+        "minecraft:shield",
+        1
     ]
 }

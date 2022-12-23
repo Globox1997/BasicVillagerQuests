@@ -4,21 +4,21 @@
     "level": 5,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 1500,
+    "refresh": 1500,
     "task": [
         "submit",
         "minecraft:netherite_pickaxe",
         3,
-		"submit",
-		"minecraft:netherite_shovel",
-		3
+        "submit",
+        "minecraft:netherite_shovel",
+        3
     ],
     "description": "I've heard that you'll head to the end dimmension. I bid you safe travels but can you atleast fulfill my task for old time sake?",
-	"experience":100,
+    "experience": 100,
     "reward": [
         "minecraft:emerald",
         64,
-		"minecraft:diamond",
-		30
+        "minecraft:diamond",
+        30
     ]
 }

@@ -4,7 +4,7 @@
     "level": 3,
     "type": "",
     "profession": "toolsmith",
-	"refresh": 780,
+    "refresh": 780,
     "task": [
         "submit",
         "minecraft:gold_ingot",
@@ -14,7 +14,7 @@
     "reward": [
         "minecraft:emerald",
         35,
-		"minecraft:gold_boots"
-		1
+        "minecraft:golden_boots",
+        1
     ]
 }

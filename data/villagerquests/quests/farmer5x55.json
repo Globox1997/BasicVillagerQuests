@@ -4,7 +4,7 @@
     "level": 5,
     "type": "submit",
     "profession": "farmer",
-	"refresh": 60000,
+    "refresh": 60000,
     "task": [
         "submit",
         "minecraft:wheat",
@@ -24,10 +24,9 @@
         "submit",
         "minecraft:red_mushroom",
         32
-
     ],
     "description": "Today, we celebrate the day of our ancestors. As a tribute, we shall harvest all that we can to be cooked and eaten and offered to them.",
-	"experience":500,
+    "experience": 500,
     "reward": [
         "minecraft:emerald",
         200,

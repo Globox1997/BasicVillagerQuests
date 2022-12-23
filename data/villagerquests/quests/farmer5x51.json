@@ -4,7 +4,7 @@
     "level": 5,
     "type": "fight",
     "profession": "farmer",
-	"refresh": 15000,
+    "refresh": 15000,
     "task": [
         "kill",
         "minecraft:zombie",
@@ -15,10 +15,9 @@
         "submit",
         "minecraft:bone_meal",
         64
-
     ],
     "description": "Hey there my friend! Listen, I hope you could understand but can you please kill some mobs for us and collect some bone meal? the crops would appreciate it!",
-	"experience":120,
+    "experience": 120,
     "reward": [
         "minecraft:emerald",
         100,

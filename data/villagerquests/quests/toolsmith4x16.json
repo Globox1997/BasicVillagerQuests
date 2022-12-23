@@ -4,27 +4,27 @@
     "level": 4,
     "type": "fight",
     "profession": "toolsmith",
-	"refresh": 2200,
+    "refresh": 2200,
     "task": [
         "kill",
         "minecraft:pillager",
         10,
-		"kill",
-		"minecraft:evoker",
-		2,
-		"kill",
-		"minecraft:vindicator",
-		5,
-		"kill",
-		"minecraft:ravager",
-		2
+        "kill",
+        "minecraft:evoker",
+        2,
+        "kill",
+        "minecraft:vindicator",
+        5,
+        "kill",
+        "minecraft:ravager",
+        2
     ],
     "description": "We have enough tools to defend, we just need them to attack us.",
-	"experience":75,
+    "experience": 75,
     "reward": [
         "minecraft:emerald",
         64,
-		"minecraft:diamond",
-		10
+        "minecraft:diamond",
+        10
     ]
 }
